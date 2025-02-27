@@ -1,0 +1,14 @@
+C:\Users\alexi\OneDrive\Desktop\repos\ExerciseCSharpcake\ExerciseCSharpcake\bin\Debug\net9.0\ExerciseCSharpcake.exe
+C:\Users\alexi\OneDrive\Desktop\repos\ExerciseCSharpcake\ExerciseCSharpcake\bin\Debug\net9.0\ExerciseCSharpcake.deps.json
+C:\Users\alexi\OneDrive\Desktop\repos\ExerciseCSharpcake\ExerciseCSharpcake\bin\Debug\net9.0\ExerciseCSharpcake.runtimeconfig.json
+C:\Users\alexi\OneDrive\Desktop\repos\ExerciseCSharpcake\ExerciseCSharpcake\bin\Debug\net9.0\ExerciseCSharpcake.dll
+C:\Users\alexi\OneDrive\Desktop\repos\ExerciseCSharpcake\ExerciseCSharpcake\bin\Debug\net9.0\ExerciseCSharpcake.pdb
+C:\Users\alexi\OneDrive\Desktop\repos\ExerciseCSharpcake\ExerciseCSharpcake\obj\Debug\net9.0\ExerciseCSharpcake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexi\OneDrive\Desktop\repos\ExerciseCSharpcake\ExerciseCSharpcake\obj\Debug\net9.0\ExerciseCSharpcake.AssemblyInfoInputs.cache
+C:\Users\alexi\OneDrive\Desktop\repos\ExerciseCSharpcake\ExerciseCSharpcake\obj\Debug\net9.0\ExerciseCSharpcake.AssemblyInfo.cs
+C:\Users\alexi\OneDrive\Desktop\repos\ExerciseCSharpcake\ExerciseCSharpcake\obj\Debug\net9.0\ExerciseCSharpcake.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive\Desktop\repos\ExerciseCSharpcake\ExerciseCSharpcake\obj\Debug\net9.0\ExerciseCSharpcake.dll
+C:\Users\alexi\OneDrive\Desktop\repos\ExerciseCSharpcake\ExerciseCSharpcake\obj\Debug\net9.0\refint\ExerciseCSharpcake.dll
+C:\Users\alexi\OneDrive\Desktop\repos\ExerciseCSharpcake\ExerciseCSharpcake\obj\Debug\net9.0\ExerciseCSharpcake.pdb
+C:\Users\alexi\OneDrive\Desktop\repos\ExerciseCSharpcake\ExerciseCSharpcake\obj\Debug\net9.0\ExerciseCSharpcake.genruntimeconfig.cache
+C:\Users\alexi\OneDrive\Desktop\repos\ExerciseCSharpcake\ExerciseCSharpcake\obj\Debug\net9.0\ref\ExerciseCSharpcake.dll
