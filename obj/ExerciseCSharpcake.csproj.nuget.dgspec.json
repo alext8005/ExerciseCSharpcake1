@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexi\\onedrive\\desktop\\repos\\ExerciseCsharpcake\\ExerciseCSharpcake\\ExerciseCSharpcake.csproj": {}
+    "C:\\Users\\alexi\\OneDrive\\Desktop\\repos\\ExerciseCSharpcake\\ExerciseCSharpcake\\ExerciseCSharpcake.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexi\\onedrive\\desktop\\repos\\ExerciseCsharpcake\\ExerciseCSharpcake\\ExerciseCSharpcake.csproj": {
+    "C:\\Users\\alexi\\OneDrive\\Desktop\\repos\\ExerciseCSharpcake\\ExerciseCSharpcake\\ExerciseCSharpcake.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexi\\onedrive\\desktop\\repos\\ExerciseCsharpcake\\ExerciseCSharpcake\\ExerciseCSharpcake.csproj",
+        "projectUniqueName": "C:\\Users\\alexi\\OneDrive\\Desktop\\repos\\ExerciseCSharpcake\\ExerciseCSharpcake\\ExerciseCSharpcake.csproj",
         "projectName": "ExerciseCSharpcake",
-        "projectPath": "C:\\Users\\alexi\\onedrive\\desktop\\repos\\ExerciseCsharpcake\\ExerciseCSharpcake\\ExerciseCSharpcake.csproj",
+        "projectPath": "C:\\Users\\alexi\\OneDrive\\Desktop\\repos\\ExerciseCSharpcake\\ExerciseCSharpcake\\ExerciseCSharpcake.csproj",
         "packagesPath": "C:\\Users\\alexi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexi\\onedrive\\desktop\\repos\\ExerciseCsharpcake\\ExerciseCSharpcake\\obj\\",
+        "outputPath": "C:\\Users\\alexi\\OneDrive\\Desktop\\repos\\ExerciseCSharpcake\\ExerciseCSharpcake\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexi\\AppData\\Roaming\\NuGet\\NuGet.Config"

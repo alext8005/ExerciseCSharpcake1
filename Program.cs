@@ -9,7 +9,7 @@ class Program
         char cakeCode = 'C';
         bool cakeChocolate = true;
         double chocolatePrice = 10.50;
-        decimal monthlyCakeSales = 1000;
+        decimal monthlyCakeSales = 1000.50m;
         
         Console.WriteLine($"The best dessert is {dessertName}.");
         Console.WriteLine($"They are best when cut in {dessertSlices} slices.");

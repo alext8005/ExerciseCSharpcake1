@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExerciseCSharpcake")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f724d3d947a4982b63d3766b8c0284c05f17de7d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExerciseCSharpcake")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExerciseCSharpcake")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

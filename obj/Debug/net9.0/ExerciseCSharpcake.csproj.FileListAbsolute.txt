@@ -12,3 +12,4 @@ C:\Users\alexi\OneDrive\Desktop\repos\ExerciseCSharpcake\ExerciseCSharpcake\obj\
 C:\Users\alexi\OneDrive\Desktop\repos\ExerciseCSharpcake\ExerciseCSharpcake\obj\Debug\net9.0\ExerciseCSharpcake.pdb
 C:\Users\alexi\OneDrive\Desktop\repos\ExerciseCSharpcake\ExerciseCSharpcake\obj\Debug\net9.0\ExerciseCSharpcake.genruntimeconfig.cache
 C:\Users\alexi\OneDrive\Desktop\repos\ExerciseCSharpcake\ExerciseCSharpcake\obj\Debug\net9.0\ref\ExerciseCSharpcake.dll
+C:\Users\alexi\OneDrive\Desktop\repos\ExerciseCSharpcake\ExerciseCSharpcake\obj\Debug\net9.0\ExerciseCSharpcake.sourcelink.json
